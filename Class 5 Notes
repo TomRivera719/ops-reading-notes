@@ -1,0 +1,12 @@
+Explain the terms “shell”, “terminal”, “cli”, and “command prompt”. Why are these still used today, when we have graphical interfaces?
+  These are terms used for command line interfaces and these are still used because under the GUI there are still these basic commands and this can be a quicker way to execute a task.
+
+What are the commands to change directories, list the file’s contents and rename/move files?
+  CD is used to change directories, Li to list files and Mvcommand is used to move files.
+
+What are relative and absolute paths? What is special about starting with a ~ (tilde) or a ‘/’ character in the path?
+  Relative is just like in the real would and is applicable depending on your location where as Absolute will take you to the same place every time...I guess you could say like your
+  address per street could be relative  1St street could apply in GPS regardless of city but absolute such as a Latitude Longitude will always point to the same location.
+
+Explain what Linux is, using anything except English.
+  Linux es un sistema operativo de codigo abierto basado en UNIX.
