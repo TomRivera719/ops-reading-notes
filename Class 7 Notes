@@ -1,0 +1,35 @@
+SSH Protocol
+
+What is the Secure Shell (SSH) Protocol?
+  SSH provides a way for a user to basically remote into another computer in a way that is more secure than RDP for instance.
+
+What are the typical uses of the SSH protocol?
+  As shown this can be used to shutdown a computer to reboot or to be able to push an update to a user comp as an admin.
+
+How does the SSH protocol work?
+  It utilizes port 22 in order to create a secure connection between the two devices.
+
+How is the data kept safe when transmitted between the SSH client and server?
+  It is Multiplexes the encrypted tunnel into multiple logical communications channels- 
+Per: T. Ylonen; C. Lonvick (January 2006). 
+The Secure Shell (SSH) Protocol Architecture. 
+IETF Trust. doi:10.17487/RFC4251. RFC 4251.
+
+What is SFTP?
+  Secure File Transfer Protocol- Like FTP is used to transfer large files but differs in that it uses SSH security protocols.
+
+What is RDP? And how to use it
+  RDP is Windows standard Remote Desktop Protocol and we can use this by opening the program Remote Desktop Connection and securing the UN,PW and IP from the host computer 
+(one we are remoting into) we can log into the host computer and be in the environment of that computer so even if you are on windows logging into
+a Linux system you will have the desktop of the Linux system as if you were sitting in front of the computer.
+
+What is Windows Remote Desktop Connection?
+  This is the method of utilizing the Remote Desktop Protocol through a Windows system and securing a connection with a host system.
+  
+What is RDP?
+  RDP is Windows standard Remote Desktop Protocol and we can use this by opening the program Remote Desktop Connection and securing the UN,PW and IP from the host computer 
+(one we are remoting into) we can log into the host computer and be in the environment of that computer so even if you are on windows logging into
+a Linux system you will have the desktop of the Linux system as if you were sitting in front of the computer.
+
+What is the RDP port number?
+  Port 3389 is the port used by default for RDP. 
