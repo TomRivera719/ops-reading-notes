@@ -1,0 +1,21 @@
+What is an ISO File?
+  I believe it stands for Image Source Optical.. this was originally a file on a disk for the optical drive to read 
+but this is generally used to describe images usually an operating system and utilized for install on a bootable drive 
+or for use in a virtualization such as to run an operating system like OSX on a Windows PC of Linux machine.
+
+How do you write an ISO file to a CD, DVD, or removable media (like a thumb drive)?
+  In order to write the file as any disk you would utilize the software that corresponds to the hardware that you plan 
+to use so for CDRs or DVDRs this may be the same utility but for removable media such as a thumb drive you can use the default 
+writing program or a third party program such as RUFUS that simplifies the process.  In either case you would aquire or create the 
+image you wish to transpose to whatever media form you choose then commit to the transfer given the peramiters you require and transfer 
+the image.   
+How do you create an ISO file?
+  You can use a multitude of programs to make an ISO this could even be an image of a home movie tnat you wish to but onto DVD or an OS
+and even a program that you created yourself but as stated above you would set the perameters you require and "burn" the image to whichever 
+media form you choose.
+
+How do you mount an ISO file?
+  If the ISO is on disk you generally install instructional files so that it will autorun and if it does not you can point to the disk drive and
+either double click or right click and select "mount".  If the image is on a USB you have the choice of making this drive bootable such as in the case 
+of an operating system or you can utilize a 3rd party program or native software to right-click and select "mount" most 3rd party apps will be those 
+that also do archiving and packiong/unpacking of zip files.
