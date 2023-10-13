@@ -1,0 +1,21 @@
+What is the Command Prompt?
+    Command prompt is the command line utility within Windows that allows you to execute direct tasks.
+
+How do I access the Command Prompt?
+    Command prompt can be reached several ways but the quickest is to click the search and type Cdm 
+and the utility will show if you need to run an admin task a quick way is to right click and run as administrator.
+
+What are some of the most commonly used commands?
+    Generally based on my use and the observed use of others I would say that ipconfig with the commands that go with it ie. 
+All,release and renew. Then Ping in order to check connectivity and also Chkdsk as it is not uncommon to have errors due 
+to bad sectors and last but not least Dir is also a go to as a listing showing an overview of everything similar to Ls in Linux.
+
+What is Windows Power Shell?
+    Power shell is similar to command line but has other functionality such as the ability to run scripts also comparatively it hasn't 
+been around as long as command line but with more functionality it has basically went from just being a windows utility to an open 
+source tool utilized by a wide range of operating systems for power of functionality.
+
+What is Windows Terminal?
+    Windows Terminal would be considered the youngest of this list but certainly not the least functional as this program is designed 
+to run command prompt and power shell and ssh so rather than having to hop around and use different platforms you could just utilize 
+this utility for all the tasks you need.
