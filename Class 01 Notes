@@ -1,0 +1,11 @@
+**What is the purpose of the Windows System Restore tool?**
+    *Windows created this utility in order that a user can go back to before they developed a problem such as a virus etc.*
+
+**How long does it usually take to use the System Restore tool in Windows?**
+    *Generally it takes about 40 minutes but as I affectionately refer to these as "Microsoft Minutes" could be actual time of could be an hour and a half.*
+
+**How do you start a System Restore from the command prompt?
+    *According to Lifewire.com you can type rstrui.exe and hit enter from the Command Prompt and then just follow the on-screen prompts.*
+
+**What options are available if System Restore did not fix the problem?**
+    *Well you can troubleshoot the process by opening in "Safe Mode" this will help if the process preventing it is a virus etc or try another restore point but in actuality you would reinstall the OS.*
