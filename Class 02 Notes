@@ -1,0 +1,17 @@
+What is the primary function of a shell in a computer’s operating system?
+    The primary function of shell is basically to be the middle man between you and your OS in order that you may accomplish the required functions.
+
+How does Bash locate and execute commands on a Linux or Unix system?
+    Bash operates for Linux /Unix the way that command line would work in windows it has a list of commands and serches its database of commands so 
+    to speak and if present it will execute the task if it is't it might give a suggestion or spit back an error. 
+
+How can you determine if your system is running a Bash shell?
+    Per StackOverflow.com : you could type the command : echo $0 ...if the reply is "Bash" this this lets you know that you are in fact utilizing Bash shell.
+
+What makes Bash scripting powerful and why is it considered scriptable?
+    Bash is considered scripable due to the fact that it can process variables and conditions in this way it is similar to NOR gates in electronics or in programing.
+
+Bash scripting allows for customization, automation, and efficiency. Discuss methods or practices from your previous work experience or cultural background that aim to achieve similar goals in daily tasks.
+    So in my previous IT experience I did not possess the time to run the same repetitivee task on every computer within my network I was also not talented enough to memorize all of the commands needed but I could reference 
+    In order to accomplish the task... so with this said it was much more efficient to only have to write a script once that could accomplish the task and be deployed easily remotely so this is what myself and my peers would
+    do in order to save time...if I figured out a fix 1st I would create the script and share with peers and likewide they would do the same.
